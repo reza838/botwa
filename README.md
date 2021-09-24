@@ -1,2 +1,0 @@
-# botwa
-Eror chat wa
